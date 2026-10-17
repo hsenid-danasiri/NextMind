@@ -1,0 +1,2 @@
+# NextMind
+For Educational purpose
